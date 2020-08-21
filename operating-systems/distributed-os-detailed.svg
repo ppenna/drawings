@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="58.150421mm"
+   height="40.952503mm"
+   viewBox="0 0 58.150412 40.952503"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="distributed-operating-system.svg"
+   inkscape:export-filename="/home/ppenna/Documents/Thesis/phd-thesis/img/nanvix-mqueue-service.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1828"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1826"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5440"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5434"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="63.17981"
+     inkscape:cy="95.624722"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     fit-margin-top="0.5"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       originx="-13.919579"
+       originy="-228.23208" />
+    <sodipodi:guide
+       position="-5.9820873,56.19498"
+       orientation="1,0"
+       id="guide1042"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.919589,-27.815403)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="67.46875"
+       y="77.301323"
+       id="text4797"><tspan
+         sodipodi:role="line"
+         id="tspan4795"
+         x="67.46875"
+         y="87.559097"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4893"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,2.1284342e-6,-0.09450438)"><flowRegion
+         id="flowRegion4895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL'"><rect
+           id="rect4897"
+           width="100"
+           height="55"
+           x="490"
+           y="347.51968"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL'" /></flowRegion><flowPara
+         id="flowPara4899" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4938"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,2.1284342e-6,-0.09450438)"><flowRegion
+         id="flowRegion4940"><rect
+           id="rect4942"
+           width="90"
+           height="50"
+           x="245"
+           y="302.51968" /></flowRegion><flowPara
+         id="flowPara4944" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5097"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,2.1284342e-6,-0.09450438)"><flowRegion
+         id="flowRegion5099"><rect
+           id="rect5101"
+           width="75"
+           height="55"
+           x="480"
+           y="207.51968" /></flowRegion><flowPara
+         id="flowPara5103" /></flowRoot>    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-6-4-6"
+       width="56.885422"
+       height="6.6145797"
+       x="14.552089"
+       y="37.708324"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.741056"
+       y="42.239754"
+       id="text4754-8-0-5-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan4752-5-7-1-6-5"
+         x="24.741056"
+         y="42.239754"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#ffffff;stroke-width:0.26458332">Distributed OS Services</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-8"
+       width="56.885418"
+       height="6.7090807"
+       x="14.552089"
+       y="61.426327"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.764999"
+       y="65.584694"
+       id="text5606-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan5604-5-0"
+         x="33.764999"
+         y="65.584694"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#f9f9f9;stroke-width:0.26458332">Interconnect</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-8-0"
+       width="13.229167"
+       height="6.7090807"
+       x="14.55209"
+       y="53.583321"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="15.919048"
+       y="58.163765"
+       id="text5606-2-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan5604-5-0-3"
+         x="15.919048"
+         y="58.163765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#f9f9f9;stroke-width:0.26458332">Cluster</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-8-0-5"
+       width="13.229167"
+       height="6.7090807"
+       x="29.104174"
+       y="53.583321"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="30.471132"
+       y="58.163765"
+       id="text5606-2-9-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan5604-5-0-3-29"
+         x="30.471132"
+         y="58.163765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#f9f9f9;stroke-width:0.26458332">Cluster</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-8-0-2"
+       width="13.229167"
+       height="6.7090807"
+       x="43.656258"
+       y="53.583321"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="45.023216"
+       y="58.163765"
+       id="text5606-2-9-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan5604-5-0-3-0"
+         x="45.023216"
+         y="58.163765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#f9f9f9;stroke-width:0.26458332">Cluster</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-8-0-3"
+       width="13.229167"
+       height="6.7090807"
+       x="58.20834"
+       y="53.583321"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.575298"
+       y="58.163765"
+       id="text5606-2-9-8-60"><tspan
+         sodipodi:role="line"
+         id="tspan5604-5-0-3-6"
+         x="59.575298"
+         y="58.163765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#f9f9f9;stroke-width:0.26458332">Cluster</tspan></text>
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-6-4-6-2"
+       width="13.229166"
+       height="6.6145797"
+       x="14.55209"
+       y="45.645821"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="16.419249"
+       y="50.157848"
+       id="text4754-8-0-5-7-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan4752-5-7-1-6-5-1"
+         x="16.419249"
+         y="50.157848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#ffffff;stroke-width:0.26458332">Kernel</tspan></text>
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-6-4-6-2-5"
+       width="13.229167"
+       height="6.6145797"
+       x="29.104172"
+       y="45.645821"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="30.971331"
+       y="50.157848"
+       id="text4754-8-0-5-7-7-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan4752-5-7-1-6-5-1-9"
+         x="30.971331"
+         y="50.157848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#ffffff;stroke-width:0.26458332">Kernel</tspan></text>
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-6-4-6-2-0"
+       width="13.229167"
+       height="6.6145797"
+       x="43.656258"
+       y="45.645821"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="45.523415"
+       y="50.157848"
+       id="text4754-8-0-5-7-7-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan4752-5-7-1-6-5-1-0"
+         x="45.523415"
+         y="50.157848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#ffffff;stroke-width:0.26458332">Kernel</tspan></text>
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-6-4-6-2-1"
+       width="13.229167"
+       height="6.6145797"
+       x="58.20834"
+       y="45.645821"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="60.0755"
+       y="50.157848"
+       id="text4754-8-0-5-7-7-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan4752-5-7-1-6-5-1-7"
+         x="60.0755"
+         y="50.157848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#ffffff;stroke-width:0.26458332">Kernel</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1641-6-1-6-5-1-7-5-5-1-54-5-9-3"
+       width="56.885418"
+       height="7.9375038"
+       x="14.552091"
+       y="28.447903"
+       rx="1.0000008"
+       ry="1.0000006" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4917-2-2-0-6-7-6-67"
+       style="font-style:normal;font-weight:normal;font-size:13.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-109.17134,-51.329137)"><flowRegion
+         id="flowRegion4919-6-0-3-3-4-29-7"
+         style="font-size:13.33333397px"><rect
+           id="rect4921-06-2-6-2-4-1-3"
+           width="150"
+           height="90"
+           x="500"
+           y="307.51968"
+           style="font-size:13.33333397px" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle"
+         id="flowPara1359">Multi-Cluster Application</flowPara></flowRoot>  </g>
+</svg>
