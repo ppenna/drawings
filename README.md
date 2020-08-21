@@ -1,7 +1,7 @@
 My Drawings
 ===========
 
-This repository stores the drawings that I sue in my papers.
+This repository stores the drawings that I use in my papers.
 
 Let me know if you start using them too.
 
