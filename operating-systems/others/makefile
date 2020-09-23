@@ -1,8 +1,18 @@
-SVG=$(wildcard *.svg)
-PDF=$(SVG:.svg=.pdf)
+SVG = $(wildcard *.svg)
+PDF = $(SVG:.svg=.pdf)
+SUBDIRS := $(wildcard */.)
+TOPTARGETS := all
 
-all: $(PDF)
+export PREFIX := $(PREFIX)/$(shell basename $(CURDIR))
+
+.PHONY: $(TOPTARGETS) $(SUBDIRS)
+
+all: $(PDF) $(SUBDIRS)
+
+$(SUBDIRS):
+	$(MAKE) -C $@ $(MAKECMDGOALS)
 
 %.pdf: %.svg
 	echo $@ $<
-	inkscape $< --export-pdf=$@
+	mkdir -p $(PREFIX)
+	inkscape $< --export-pdf=$(PREFIX)/$@
