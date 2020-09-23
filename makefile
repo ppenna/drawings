@@ -1,4 +1,5 @@
-export PREFIX ?= $(CURDIR)/img
+PREFIX ?= $(CURDIR)/img
+export DIR := $(PREFIX)
 
 all:
 	$(MAKE) -C computer-architecture all

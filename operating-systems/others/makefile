@@ -3,7 +3,7 @@ PDF = $(SVG:.svg=.pdf)
 SUBDIRS := $(wildcard */.)
 TOPTARGETS := all
 
-export PREFIX := $(PREFIX)/$(shell basename $(CURDIR))
+export DIR := $(DIR)/$(shell basename $(CURDIR))
 
 .PHONY: $(TOPTARGETS) $(SUBDIRS)
 
@@ -14,5 +14,5 @@ $(SUBDIRS):
 
 %.pdf: %.svg
 	echo $@ $<
-	mkdir -p $(PREFIX)
-	inkscape $< --export-pdf=$(PREFIX)/$@
+	mkdir -p $(DIR)
+	inkscape $< --export-pdf=$(DIR)/$@
