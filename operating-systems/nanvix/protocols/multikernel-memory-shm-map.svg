@@ -11,7 +11,7 @@
    inkscape:export-xdpi="300"
    inkscape:export-filename="/home/ppenna/Documents/Thesis/phd-thesis/img/nanvix-mqueue-service.png"
    sodipodi:docname="multikernel-memory-shm-map.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    id="svg8"
    version="1.1"
    viewBox="0 0 103.19999 23.000001"
@@ -921,14 +921,14 @@
      fit-margin-top="0.5"
      inkscape:window-maximized="0"
      inkscape:window-y="0"
-     inkscape:window-x="1280"
+     inkscape:window-x="1920"
      inkscape:window-height="1080"
      inkscape:window-width="1920"
      showgrid="true"
      inkscape:current-layer="g12660"
      inkscape:document-units="mm"
      inkscape:cy="84.124234"
-     inkscape:cx="237.55158"
+     inkscape:cx="173.91197"
      inkscape:zoom="1.979899"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -950,7 +950,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -978,8 +978,7 @@
            height="55"
            width="100"
            id="rect4897" /></flowRegion><flowPara
-         id="flowPara4899" /></flowRoot>
-    <flowRoot
+         id="flowPara4899" /></flowRoot>    <flowRoot
        transform="scale(0.26458333)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4938"
@@ -990,8 +989,7 @@
            height="50"
            width="90"
            id="rect4942" /></flowRegion><flowPara
-         id="flowPara4944" /></flowRoot>
-    <flowRoot
+         id="flowPara4944" /></flowRoot>    <flowRoot
        transform="scale(0.26458333)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot5097"
@@ -1002,8 +1000,7 @@
            height="55"
            width="75"
            id="rect5101" /></flowRegion><flowPara
-         id="flowPara5103" /></flowRoot>
-    <flowRoot
+         id="flowPara5103" /></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot41393"
        xml:space="preserve"><flowRegion
@@ -1013,8 +1010,7 @@
            height="65"
            width="95"
            id="rect41397" /></flowRegion><flowPara
-         id="flowPara41399" /></flowRoot>
-    <g
+         id="flowPara41399" /></flowRoot>    <g
        id="g12788"
        transform="translate(-0.46831411,-0.48396875)">
       <g
@@ -1056,7 +1052,7 @@
            d="m 176.21254,-193.00833 v 16.77851"
            style="fill:none;stroke:#646464;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.06, 0.53;stroke-dashoffset:0;stroke-opacity:1" />
         <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,-46.271079,-279.65472)"
+           transform="matrix(0.26458333,0,0,0.26458333,-45.527547,-279.2687)"
            style="font-style:normal;font-weight:normal;font-size:16px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot4917-2-6-9-9"
            xml:space="preserve"><flowRegion
@@ -1067,9 +1063,8 @@
                width="150"
                id="rect4921-06-5-7-6" /></flowRegion><flowPara
              id="flowPara948-4-9"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">APP</flowPara></flowRoot>
-        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,-11.627184,-279.38687)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">Application</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-10.886745,-278.94727)"
            style="font-style:normal;font-weight:normal;font-size:16px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:-2px;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot4917-2-6-9"
            xml:space="preserve"><flowRegion
@@ -1080,8 +1075,7 @@
                width="150"
                id="rect4921-06-5-7" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle"
-             id="flowPara12501">POSIX SHM</flowPara></flowRoot>
-        <rect
+             id="flowPara12501">POSIX SHM</flowPara></flowRoot>        <rect
            ry="0.99915838"
            rx="1.0465835"
            y="-199.09076"
@@ -1091,7 +1085,7 @@
            id="rect1641-6-1-6-5-1-6"
            style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.270988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
         <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,24.077101,-279.19925)"
+           transform="matrix(0.26458333,0,0,0.26458333,24.078071,-278.84165)"
            style="font-style:normal;font-weight:normal;font-size:16px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:-2px;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot4917-2-3-9-6"
            xml:space="preserve"><flowRegion
@@ -1102,8 +1096,7 @@
                width="150"
                id="rect4921-06-75-6-8" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle"
-             id="flowPara12503">VMem Allocator</flowPara></flowRoot>
-        <flowRoot
+             id="flowPara12503">VMem Allocator</flowPara></flowRoot>        <flowRoot
            transform="matrix(0.26458333,0,0,0.26458333,-25.48784,-273.38532)"
            style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot4917-2-6-9-6-5"
@@ -1117,8 +1110,7 @@
                width="150"
                id="rect4921-06-5-7-9-81" /></flowRegion><flowPara
              id="flowPara948-4-1-2"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">mmap()</flowPara></flowRoot>
-        <path
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">mmap()</flowPara></flowRoot>        <path
            inkscape:connector-curvature="0"
            id="path1252-8"
            d="m 105.83333,-186.39375 h 34.16669"
@@ -1138,8 +1130,7 @@
                width="150"
                id="rect4921-06-5-7-9-81-0" /></flowRegion><flowPara
              id="flowPara948-4-1-2-2"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Attach SHM Region</flowPara></flowRoot>
-        <path
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Attach SHM Region</flowPara></flowRoot>        <path
            inkscape:connector-curvature="0"
            id="path1252-8-1"
            d="m 140.49376,-183.48334 h 35.50626"
@@ -1164,8 +1155,7 @@
                width="150"
                id="rect4921-06-5-7-9-81-4" /></flowRegion><flowPara
              id="flowPara948-4-1-2-6"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Time</flowPara></flowRoot>
-        <path
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Time</flowPara></flowRoot>        <path
            inkscape:connector-curvature="0"
            id="path1252-0-1-0-3-1-9-1-6"
            d="m 176.21254,-179.51457 h -35.1896"
@@ -1198,8 +1188,7 @@
            x="490"
            y="347.51968"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL'" /></flowRegion><flowPara
-         id="flowPara4899-2" /></flowRoot>
-    <flowRoot
+         id="flowPara4899-2" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4938-2"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1210,8 +1199,7 @@
            height="50"
            x="245"
            y="302.51968" /></flowRegion><flowPara
-         id="flowPara4944-5" /></flowRoot>
-    <flowRoot
+         id="flowPara4944-5" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5097-7"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1222,8 +1210,7 @@
            height="55"
            x="480"
            y="207.51968" /></flowRegion><flowPara
-         id="flowPara5103-5" /></flowRoot>
-    <flowRoot
+         id="flowPara5103-5" /></flowRoot>    <flowRoot
        transform="translate(-13.229154,-62.309602)"
        xml:space="preserve"
        id="flowRoot41393-5"
@@ -1234,6 +1221,5 @@
            height="65"
            x="607.39056"
            y="-32.609444" /></flowRegion><flowPara
-         id="flowPara41399-4" /></flowRoot>
-  </g>
+         id="flowPara41399-4" /></flowRoot>  </g>
 </svg>

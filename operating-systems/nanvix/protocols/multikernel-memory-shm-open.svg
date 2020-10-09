@@ -12,7 +12,7 @@
    viewBox="0 0 159.49999 54.800001"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="multikernel-memory-shm-open.svg"
    inkscape:export-filename="/home/ppenna/Documents/Thesis/phd-thesis/img/nanvix-mqueue-service.png"
    inkscape:export-xdpi="300"
@@ -854,17 +854,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="303.86475"
-     inkscape:cy="192.98956"
+     inkscape:zoom="2.8"
+     inkscape:cx="239.98647"
+     inkscape:cy="162.01709"
      inkscape:document-units="mm"
      inkscape:current-layer="g4562"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
-     inkscape:window-x="1280"
+     inkscape:window-width="2560"
+     inkscape:window-height="1056"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      fit-margin-top="0.5"
      fit-margin-left="0.5"
      fit-margin-right="0.5"
@@ -884,7 +884,8 @@
     <sodipodi:guide
        position="5.6742008,41.726254"
        orientation="1,0"
-       id="guide3899" />
+       id="guide3899"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -922,8 +923,7 @@
            x="490"
            y="347.51968"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL'" /></flowRegion><flowPara
-         id="flowPara4899" /></flowRoot>
-    <flowRoot
+         id="flowPara4899" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4938"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -934,8 +934,7 @@
            height="50"
            x="245"
            y="302.51968" /></flowRegion><flowPara
-         id="flowPara4944" /></flowRoot>
-    <flowRoot
+         id="flowPara4944" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5097"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -946,8 +945,7 @@
            height="55"
            x="480"
            y="207.51968" /></flowRegion><flowPara
-         id="flowPara5103" /></flowRoot>
-    <flowRoot
+         id="flowPara5103" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot41393"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -957,8 +955,7 @@
            height="65"
            x="607.39056"
            y="-32.609444" /></flowRegion><flowPara
-         id="flowPara41399" /></flowRoot>
-    <g
+         id="flowPara41399" /></flowRoot>    <g
        id="g4562"
        transform="translate(-4.4166194,0.21463227)">
       <path
@@ -992,7 +989,7 @@
          d="m 105.82946,-192.47916 v 47.62499"
          style="fill:none;stroke:#646464;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.06, 0.53;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.321057;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.32105699;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          id="rect3765"
          width="23.678942"
          height="8.6789436"
@@ -1028,8 +1025,8 @@
          rx="1.1186907"
          ry="1.3120928" />
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-46.276242,-278.89227)"
-         style="font-style:normal;font-weight:normal;font-size:15.3333px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-46.27525,-278.54954)"
+         style="font-style:normal;font-weight:normal;font-size:15.33329964px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot4917-2-6-9-9"
          xml:space="preserve"><flowRegion
            id="flowRegion4919-6-7-4-4"><rect
@@ -1039,10 +1036,9 @@
              width="150"
              id="rect4921-06-5-7-6" /></flowRegion><flowPara
            id="flowPara948-4-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">APP</flowPara></flowRoot>
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,3.1844591,-280.75291)"
-         style="font-style:normal;font-weight:normal;font-size:15.3333px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.33329964px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">Application</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,3.1854256,-280.31678)"
+         style="font-style:normal;font-weight:normal;font-size:15.33329964px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot4917-2-2"
          xml:space="preserve"><flowRegion
            id="flowRegion4919-6-0"><rect
@@ -1052,12 +1048,11 @@
              width="150"
              id="rect4921-06-2" /></flowRegion><flowPara
            id="flowPara75-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">VMem</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.33329964px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">VMem</flowPara><flowPara
            id="flowPara3761"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">Allocator</flowPara></flowRoot>
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-21.597258,-280.72814)"
-         style="font-style:normal;font-weight:normal;font-size:15.3333px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.33329964px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">Allocator</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-21.599231,-280.29202)"
+         style="font-style:normal;font-weight:normal;font-size:15.33329964px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot4917-2-6-9"
          xml:space="preserve"><flowRegion
            id="flowRegion4919-6-7-4"><rect
@@ -1067,10 +1062,9 @@
              width="150"
              id="rect4921-06-5-7" /></flowRegion><flowPara
            id="flowPara948-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">POSIX</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.33329964px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">POSIX</flowPara><flowPara
            id="flowPara3759"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">SHM</flowPara></flowRoot>
-      <rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.33329964px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">SHM</flowPara></flowRoot>      <rect
          ry="1.3120927"
          rx="1.1186908"
          y="-199.49501"
@@ -1083,15 +1077,15 @@
          id="text4754-8-0-5-7-2"
          y="-195.7726"
          x="180.02669"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694px;line-height:1;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694008px;line-height:1;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694008px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458299"
            y="-195.7726"
            x="180.02669"
            id="tspan4752-5-7-1-6-0"
            sodipodi:role="line">Micro</tspan><tspan
            id="tspan1792"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694008px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458299"
            y="-191.71565"
            x="180.02669"
            sodipodi:role="line">Kernel</tspan></text>
@@ -1108,21 +1102,21 @@
          id="text4754-8-0-5-7-2-7"
          y="-195.7726"
          x="204.76874"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694px;line-height:1;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694008px;line-height:1;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694008px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458299"
            y="-195.7726"
            x="204.76874"
            id="tspan4752-5-7-1-6-0-5"
            sodipodi:role="line">Micro</tspan><tspan
            id="tspan1794"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05694008px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458299"
            y="-191.71565"
            x="204.76874"
            sodipodi:role="line">Kernel</tspan></text>
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,77.255606,-280.72814)"
-         style="font-style:normal;font-weight:normal;font-size:15.3333px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,77.256596,-280.29202)"
+         style="font-style:normal;font-weight:normal;font-size:15.33329964px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot4917-2-2-6"
          xml:space="preserve"><flowRegion
            id="flowRegion4919-6-0-2"><rect
@@ -1132,10 +1126,9 @@
              width="150"
              id="rect4921-06-2-6" /></flowRegion><flowPara
            id="flowPara75-3-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">SHM</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.33329964px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">SHM</flowPara><flowPara
            id="flowPara3763"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">Server</flowPara></flowRoot>
-      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.33329964px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">Server</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,-25.48784,-271.26864)"
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot4917-2-6-9-6-5"
@@ -1149,8 +1142,7 @@
              width="150"
              id="rect4921-06-5-7-9-81" /></flowRegion><flowPara
            id="flowPara948-4-1-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">shm_open()</flowPara></flowRoot>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">shm_open()</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1252-8"
@@ -1172,8 +1164,7 @@
            id="flowPara948-4-1-2-2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Create</flowPara><flowPara
            id="flowPara3955"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">SHM Region</flowPara></flowRoot>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">SHM Region</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1252-8-1"
@@ -1193,8 +1184,7 @@
            id="flowPara948-4-1-6-5"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start">Create</flowPara><flowPara
            id="flowPara3969"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start">Request</flowPara></flowRoot>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start">Request</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1252-0-9"
@@ -1212,8 +1202,7 @@
              width="150"
              id="rect4921-06-5-7-9-3-3" /></flowRegion><flowPara
            id="flowPara948-4-1-6-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start">Comm.</flowPara></flowRoot>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start">Comm.</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1252-0-48"
@@ -1233,8 +1222,7 @@
            id="flowPara948-4-1-6-9-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start">Request</flowPara><flowPara
            id="flowPara3983"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start">Received</flowPara></flowRoot>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start">Received</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1252-0-48-8"
@@ -1262,8 +1250,7 @@
            id="flowPara948-4-1-6-9-0-4"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:end;text-anchor:end">Send</flowPara><flowPara
            id="flowPara4045"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:end;text-anchor:end">Response</flowPara></flowRoot>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:end;text-anchor:end">Response</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1252-0-48-8-4"
@@ -1293,8 +1280,7 @@
            id="flowPara28063"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">SHM Creation</flowPara><flowPara
            id="flowPara13820"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">Request</flowPara></flowRoot>
-      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle">Request</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,30.934062,-242.95825)"
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot4917-2-6-9-6-0-36-96"
@@ -1306,8 +1292,7 @@
              width="150"
              id="rect4921-06-5-7-9-3-3-1" /></flowRegion><flowPara
            id="flowPara948-4-1-6-9-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:end;text-anchor:end">Comm.</flowPara></flowRoot>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:end;text-anchor:end">Comm.</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1252-0-1-0-3-1"
@@ -1332,8 +1317,7 @@
              width="150"
              id="rect4921-06-5-7-9-81-4" /></flowRegion><flowPara
            id="flowPara948-4-1-2-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Time</flowPara></flowRoot>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Time</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1252-0-48-85"

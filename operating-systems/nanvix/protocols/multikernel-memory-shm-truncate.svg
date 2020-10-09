@@ -14,8 +14,8 @@
    viewBox="0 0 185.43631 55.372141"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="memory-shm-truncate.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="multikernel-memory-shm-truncate.svg"
    inkscape:export-filename="/home/ppenna/Documents/Thesis/phd-thesis/img/nanvix-mqueue-service.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -976,13 +976,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="323.99962"
-     inkscape:cy="95.170795"
+     inkscape:zoom="2.8"
+     inkscape:cx="347.42405"
+     inkscape:cy="141.86975"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1920"
+     inkscape:window-width="2560"
      inkscape:window-height="1056"
      inkscape:window-x="1920"
      inkscape:window-y="0"
@@ -1021,7 +1021,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1100,7 +1100,7 @@
        xml:space="preserve"
        id="flowRoot4917-2-6-9-9"
        style="font-style:normal;font-weight:normal;font-size:13.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-46.276244,-279.65472)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-46.275381,-279.35672)"><flowRegion
          id="flowRegion4919-6-7-4-4"
          style="font-size:13.33333397px"><rect
            id="rect4921-06-5-7-6"
@@ -1123,7 +1123,7 @@
        xml:space="preserve"
        id="flowRoot4917-2-6-9"
        style="font-style:normal;font-weight:normal;font-size:13.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-13.217094,-279.38687)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-13.218816,-279.08887)"><flowRegion
          id="flowRegion4919-6-7-4"
          style="font-size:13.33333397px"><rect
            id="rect4921-06-5-7"
@@ -1229,7 +1229,7 @@
        xml:space="preserve"
        id="flowRoot4917-2-2"
        style="font-style:normal;font-weight:normal;font-size:13.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,19.843785,-279.29903)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,19.844653,-279.00103)"><flowRegion
          id="flowRegion4919-6-0"
          style="font-size:13.33333397px"><rect
            id="rect4921-06-2"
@@ -1271,12 +1271,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="212.62444"
+       x="212.62703"
        y="-194.50836"
        id="text4754-8-0-5-7-2-7"><tspan
          sodipodi:role="line"
          id="tspan4752-5-7-1-6-0-5"
-         x="212.62444"
+         x="212.62703"
          y="-194.50836"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#000000;stroke-width:0.26458332">MicroKernel</tspan></text>
     <rect
@@ -1292,7 +1292,7 @@
        xml:space="preserve"
        id="flowRoot4917-2-2-6"
        style="font-style:normal;font-weight:normal;font-size:13.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,97.844222,-279.38689)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,97.845072,-279.0889)"><flowRegion
          id="flowRegion4919-6-0-2"
          style="font-size:13.33333397px"><rect
            id="rect4921-06-2-6"
