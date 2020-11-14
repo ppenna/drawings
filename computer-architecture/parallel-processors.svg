@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="279.50336mm"
+   height="113.16901mm"
+   viewBox="0 0 279.50336 113.169"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="parallel-processors.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="239.34479"
+     inkscape:cy="218.05142"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1031"
+     inkscape:window-x="1920"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       originx="37.268448"
+       originy="-148.90964" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(37.268449,-34.921362)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1045"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"><flowRegion
+         id="flowRegion1047"
+         style="stroke-width:0.26458332"><rect
+           id="rect1049"
+           width="62.541069"
+           height="23.519718"
+           x="89.000755"
+           y="79.175331"
+           style="stroke-width:0.26458332" /></flowRegion><flowPara
+         id="flowPara1051"
+         style="stroke-width:0.26458332" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="207.46567"
+       y="147.13434"
+       id="text934-1"><tspan
+         sodipodi:role="line"
+         x="207.46567"
+         y="147.13434"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan1065">Lightweight Manycore Processors</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 152.13541,70.78126 55.5625,13.229173"
+       id="path1459-2-5-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot893"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-86.41467,65.891392)"><flowRegion
+         id="flowRegion895"><rect
+           id="rect897"
+           width="289.28571"
+           height="77.85714"
+           x="451.42856"
+           y="-111.6702" /></flowRegion><flowPara
+         id="flowPara899"
+         style="font-size:14.66666698px">Single-Chip</flowPara><flowPara
+         id="flowPara901"
+         style="font-size:14.66666698px">Manycore Processors</flowPara></flowRoot>    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28231043;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903"
+       width="39.6875"
+       height="11.90625"
+       x="51.593746"
+       y="35.062515" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="152.10048"
+       y="63.152443"
+       id="text827-0"><tspan
+         sodipodi:role="line"
+         x="152.10048"
+         y="63.152443"
+         style="font-size:3.88055563px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan829-7">Multiple Instruction</tspan><tspan
+         sodipodi:role="line"
+         x="152.10048"
+         y="68.444107"
+         style="font-size:3.88055563px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan878">Multiple Data</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28231043;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-3"
+       width="37.041672"
+       height="11.90625"
+       x="133.61458"
+       y="58.875011" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.54167,139.57294 v 2.64583 h 52.91666 v -2.64583"
+       id="path1035"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="126.83701"
+       y="147.22253"
+       id="text934-3-0-9-6-6-0"><tspan
+         sodipodi:role="line"
+         x="126.83701"
+         y="147.22253"
+         style="stroke-width:0.26458332"
+         id="tspan1117-2-9">Manycore Processors</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 173.20759,139.57295 v 2.64583 h 68.79167 v -2.64583"
+       id="path1035-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 207.69791,91.947933 -1e-5,13.229167"
+       id="path1734"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="207.54852"
+       y="88.992004"
+       id="text898"><tspan
+         sodipodi:role="line"
+         id="tspan896"
+         x="207.54852"
+         y="88.992004"
+         style="font-size:3.88055563px;text-align:center;text-anchor:middle;stroke-width:0.26458332">Multiple Address Spaces</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28231037;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5"
+       width="47.624992"
+       height="7.9374967"
+       x="183.88542"
+       y="84.010429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="230.0769"
+       y="110.44972"
+       id="text934-3-0-9-6"><tspan
+         sodipodi:role="line"
+         x="230.0769"
+         y="110.44972"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan1117">MPPA-256</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6-1-2-7-3"
+       width="23.812494"
+       height="7.9374976"
+       x="218.28125"
+       y="105.1771" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="207.62224"
+       y="110.44972"
+       id="text934-3-0-9-6-0"><tspan
+         sodipodi:role="line"
+         x="207.62224"
+         y="110.44972"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan1117-6">PULP</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28231043;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6-1-2-7-3-2"
+       width="18.520824"
+       height="7.9374976"
+       x="198.4375"
+       y="105.1771" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="185.20056"
+       y="110.15868"
+       id="text934-3-0-9-6-0-3"><tspan
+         sodipodi:role="line"
+         x="185.20056"
+         y="110.15868"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan1117-6-6">SW26010</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6-1-2-7-3-2-7"
+       width="23.812498"
+       height="7.9374976"
+       x="173.30208"
+       y="105.1771" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 207.69791,91.947932 230.18749,105.1771"
+       id="path1459-2-5-29-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 96.572911,91.947934 66.145817,105.17708"
+       id="path1459-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="96.545746"
+       y="88.968727"
+       id="text894"><tspan
+         sodipodi:role="line"
+         id="tspan892"
+         x="96.545746"
+         y="88.968727"
+         style="font-size:3.88055563px;text-align:center;text-anchor:middle;stroke-width:0.26458332">Single Address Space</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-3"
+       width="42.333336"
+       height="7.9374971"
+       x="75.406242"
+       y="84.010437" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.035011"
+       y="131.63773"
+       id="text934-3-0-9-6-6-6"><tspan
+         sodipodi:role="line"
+         x="53.035011"
+         y="131.63773"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan1117-2-1">Xeon Phi</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6"
+       width="21.166668"
+       height="7.9374971"
+       x="42.333324"
+       y="126.34378" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="76.742744"
+       y="131.63966"
+       id="text934-3-0-9"><tspan
+         sodipodi:role="line"
+         x="76.742744"
+         y="131.63966"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan935-9-3">TILE-Gx100</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6-1-2-7"
+       width="23.812498"
+       height="7.9374976"
+       x="64.822914"
+       y="126.34377" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.008064"
+       y="110.47105"
+       id="text918"><tspan
+         sodipodi:role="line"
+         x="66.008064"
+         y="110.47105"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan920">Uniform Access</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6-7"
+       width="31.75"
+       height="7.9374976"
+       x="50.270828"
+       y="105.1771" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 66.145828,113.1146 52.916661,126.34376"
+       id="path1459-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.145828,113.1146 11.906249,13.22916"
+       id="path1459-2-6-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="107.17178"
+       y="131.65906"
+       id="text934-3-0-9-6-6"><tspan
+         sodipodi:role="line"
+         x="107.17178"
+         y="131.65906"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan1117-2">SCC</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6-1"
+       width="13.229164"
+       height="7.9374976"
+       x="100.54167"
+       y="126.34376" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="145.49562"
+       y="131.61638"
+       id="text934-3-0-9-6-6-6-2-7"><tspan
+         sodipodi:role="line"
+         x="145.49562"
+         y="131.61638"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan1117-2-1-9-9">A64FX</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28231043;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6-1-2-2"
+       width="15.875003"
+       height="7.9374976"
+       x="137.58334"
+       y="126.34376" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="125.5238"
+       y="131.26131"
+       id="text934-3-0-9-6-6-3"><tspan
+         sodipodi:role="line"
+         x="125.5238"
+         y="131.26131"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan1117-2-5">Epiphany</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6-1-6"
+       width="21.16667"
+       height="7.9374976"
+       x="115.09375"
+       y="126.34376" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="126.85836"
+       y="110.47105"
+       id="text924"><tspan
+         sodipodi:role="line"
+         x="126.85836"
+         y="110.47105"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan926">Non-Uniform Access</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6-7-0"
+       width="42.333328"
+       height="7.9374976"
+       x="105.83334"
+       y="105.1771" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127,113.11461 18.52083,13.22916"
+       id="path1459-2-6-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127,113.11461 -18.52083,13.22916"
+       id="path1459-2-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127,113.11461 v 13.22916"
+       id="path1734-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 152.13541,70.781267 96.572913,84.01044"
+       id="path1459-2-5-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 96.572913,91.947933 127.00001,105.17708"
+       id="path1459-2-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 207.69791,91.947933 185.20833,105.1771"
+       id="path1459-2-5-29-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g1778"
+       transform="translate(-10.583344,-2.2735513e-6)">
+      <g
+         transform="translate(-3.9687475,-42.333334)"
+         id="g1751">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="5.3654003"
+           y="105.52847"
+           id="text902-1"><tspan
+             sodipodi:role="line"
+             x="5.3654003"
+             y="105.52847"
+             style="font-size:3.88055563px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan908-79">Single Instruction</tspan><tspan
+             sodipodi:role="line"
+             x="5.3654003"
+             y="110.82014"
+             style="font-size:3.88055563px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan1265">Multiple Data</tspan></text>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28231043;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect903-3-3"
+           width="37.041672"
+           height="11.90625"
+           x="-13.229174"
+           y="101.20835" />
+      </g>
+    </g>
+    <g
+       id="g1903"
+       transform="translate(-1.3229163,-3.5823567e-6)">
+      <text
+         id="text934-3-0-9-6-0-3-5"
+         y="89.283051"
+         x="7.795856"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1117-6-6-3"
+           style="font-size:3.88055563px;stroke-width:0.26458332"
+           y="89.283051"
+           x="7.7958555"
+           sodipodi:role="line">Parallel ALU</tspan></text>
+      <rect
+         y="84.010437"
+         x="-5.2916689"
+         height="7.9374976"
+         width="26.458332"
+         id="rect903-5-6-1-2-7-3-2-7-5"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1898"
+       transform="translate(3.9687503,-7.1647134e-6)">
+      <text
+         id="text934-3-0-9-6-0-3-5-6"
+         y="88.949326"
+         x="-26.460276"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1117-6-6-3-2"
+           style="font-size:3.88055563px;stroke-width:0.26458332"
+           y="88.949326"
+           x="-26.460276"
+           sodipodi:role="line">Pipelined ALU</tspan></text>
+      <rect
+         y="84.010437"
+         x="-41.010418"
+         height="7.9374976"
+         width="29.104166"
+         id="rect903-5-6-1-2-7-3-2-7-5-9"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -9.2604323,70.781264 -21.166669,84.010433"
+       id="path1459-7-6-0-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 71.437498,46.968767 -7.9375219,58.875019"
+       id="path1459-7-6-0-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.437498,46.968767 80.697912,11.90625"
+       id="path1459-7-6-0-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -9.2604187,70.781267 2.6458181,84.010436"
+       id="path1459-7-6-0-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -37.136157,139.57295 v 2.64583 H 88.54093 v -2.64583"
+       id="path1035-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.539402"
+       y="145.89961"
+       id="text934-3-0-9-6-6-0-2"><tspan
+         sodipodi:role="line"
+         x="25.539402"
+         y="145.89961"
+         style="stroke-width:0.26458332"
+         id="tspan1117-2-9-8">Manycore Accelerators</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2823104;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903-5-6-1-9"
+       width="13.229165"
+       height="7.9374976"
+       x="-1.2052717e-06"
+       y="105.1771" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 6.6145813,91.947938 V 105.1771"
+       id="path1734-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.4612885"
+       y="110.09464"
+       id="text934-3-0-9-6-6-6-2-7-3"><tspan
+         sodipodi:role="line"
+         x="6.4612885"
+         y="110.09464"
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         id="tspan1117-2-1-9-9-6">GPUs</tspan></text>
+  </g>
+</svg>
